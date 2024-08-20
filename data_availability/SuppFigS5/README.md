@@ -1,0 +1,1 @@
+# In script [plot_circuit.ipynb](../Exp_circuit/plot_circuit.ipynb) we provide the method to visualise the experimental circuits.

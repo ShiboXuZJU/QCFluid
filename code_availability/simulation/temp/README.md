@@ -1,0 +1,1 @@
+Here we store the pickle files for heavy calculation result and the generated simulation files.
