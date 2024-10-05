@@ -1,4 +1,4 @@
-# Simulating unsteady fluid flows on a superconducting quantum processor
+# Simulating unsteady flows on a superconducting quantum processor
 
 # Read data with python
     import pandas as pd
